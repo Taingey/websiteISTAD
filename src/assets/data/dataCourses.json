@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "image": "/Android.png",
+    "title": "FLUTTER MOBILE DEVELOPMENT",
+    "discount": "20% Scholarship",
+    "infor": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like",
+    "hours": "80",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 2,
+    "image": "/IOS.png",
+    "title": "IOS DEVELOPMENT",
+    "discount": "20% Scholarship",
+    "infor": "iOS Development is designed for students to get started with design iOS App Concepts. This course",
+    "hours": "80",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 3,
+    "image": "/SQL.png",
+    "title": "SQL & DATA MODELING WITH POSTGRESQL",
+    "discount": "20% Scholarship",
+    "infor": "SQL & Data Modeling with PostgreSQL is designed to help you understand in project analyze, database",
+    "hours": "50",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 4,
+    "image": "/Web_Design.png",
+    "title": "WEB DESIGN",
+    "discount": "20% Scholarship",
+    "infor": "Web Design course is designed for students to get started with Design Website Concepts. This course",
+    "hours": "70",
+    "Level": "Basic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 5,
+    "image": "/Devops.png",
+    "title": "DEVOPS ENGINEERING",
+    "discount": "20% Scholarship",
+    "infor": "This course will provide you with in-depth knowledge on how to build applications on the",
+    "hours": "70",
+    "Level": "Advanced",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 6,
+    "image": "/C++.png",
+    "title": "C++ PROGRAMMING",
+    "discount": "20% Scholarship",
+    "infor": "C++ is one of the world's most popular programming languages. C++ can be found in",
+    "hours": "60",
+    "Level": "Basic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 7,
+    "image": "/Docker.png",
+    "title": "DOCKER",
+    "discount": "20% Scholarship",
+    "infor": "Docker is a containerized tool that designed to make it easier to create, deploy, and run",
+    "hours": "45",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 8,
+    "image": "/Data_Analytics.png",
+    "title": "DATA ANALYTICS",
+    "discount": "20% Scholarship",
+    "infor": "Data analytics is the science of analyzing raw data to make conclusions about that information. Many",
+    "hours": "160",
+    "Level": "Advanced",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 9,
+    "image": "/Android.png",
+    "title": "ANDROID DEVELOPMENT",
+    "discount": "20% Scholarship",
+    "infor": "Android is an open source and Linux-based operating system for mobile devices such as",
+    "hours": "70",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 10,
+    "image": "/Next.png",
+    "title": "NEXT.JS",
+    "discount": "20% Scholarship",
+    "infor": "Next.js course is designed for students to develop single page application. It has all the tools you need",
+    "hours": "60",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 11,
+    "image": "/Linux.png",
+    "title": "LINUX ADMINISTRATOR",
+    "discount": "20% Scholarship",
+    "infor": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel. Linux is typically packaged in a Linux distribution. This",
+    "hours": "45",
+    "Level": "Basic",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 12,
+    "image": "/Spring.png",
+    "title": "SPRING FRAMEWORK",
+    "discount": "20% Scholarship",
+    "infor": "Spring Course will help in understanding about Spring framework and how to build web",
+    "hours": "80",
+    "Level": "Medium",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 13,
+    "image": "/Blockchain.png",
+    "title": "BLOCKCHAIN DEVELOPMENT",
+    "discount": "20% Scholarship",
+    "infor": "The Blockchain is a technology based on a decentralized network with “blocks” of information.",
+    "hours": "100",
+    "Level": "Advanced",
+    "width": 200,
+    "height": 100
+  },
+  {
+    "id": 14,
+    "image": "/Java.png",
+    "title": "JAVA PROGRAMMING",
+    "discount": "20% Scholarship",
+    "infor": "Java is a high-level, class-based, object-oriented programming language that is designed to have as",
+    "hours": "60",
+    "Level": "Basic",
+    "width": 200,
+    "height": 100
+  }
+]

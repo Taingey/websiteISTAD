@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/Web_Essentials.png",
+    "title": "WebEssentials ប្រកាសរើសបុគ្គលិក Software Developer និង Senior Software Developer",
+    "blog": "Job Announcement",
+    "date": "19-Sep-2022",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "id": 2,
+    "image": "/Senior_Spring.png",
+    "title": "ជជែកគ្នាលេងអំពី Web 4.0",
+    "blog": "Job Announcement",
+    "date": "07-Sep-2022",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "id": 3,
+    "image": "/Senior_Java.png",
+    "title": "តើអ្វីទៅជា Cybersecurity",
+    "blog": "Job Announcement",
+    "date": "31-Aug-2022",
+    "width": 400,
+    "height": 300
+  },
+  {
+    "id": 4,
+    "image": "/Job_opportunities.png",
+    "title": "តើអ្វីទៅជា Cybersecurity",
+    "blog": "Job Announcement",
+    "date": "13-Jul-2022",
+    "width": 400,
+    "height": 300
+  }
+]
